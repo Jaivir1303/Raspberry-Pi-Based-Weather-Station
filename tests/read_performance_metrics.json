@@ -1,0 +1,46 @@
+{
+    "sqlite": {
+        "average_temperature": {
+            "result": 24.990639730639778,
+            "time_sec": 0.007874727249145508
+        },
+        "max_humidity": {
+            "result": 90.0,
+            "time_sec": 0.007978677749633789
+        },
+        "min_pressure": {
+            "result": 980.0,
+            "time_sec": 0.008095026016235352
+        },
+        "average_uv": {
+            "result": 5.489534006733937,
+            "time_sec": 0.008061885833740234
+        },
+        "max_gas_resistance": {
+            "result": 19999.97,
+            "time_sec": 0.008679389953613281
+        }
+    },
+    "influxdb": {
+        "average_temperature": {
+            "result": 24.993622592592594,
+            "time_sec": 0.009051084518432617
+        },
+        "max_humidity": {
+            "result": 90.0,
+            "time_sec": 0.008203983306884766
+        },
+        "min_pressure": {
+            "result": 980.0,
+            "time_sec": 0.008071422576904297
+        },
+        "average_uv": {
+            "result": 5.487593703703664,
+            "time_sec": 0.008244514465332031
+        },
+        "max_gas_resistance": {
+            "result": 19999.97,
+            "time_sec": 0.00824117660522461
+        }
+    }
+}

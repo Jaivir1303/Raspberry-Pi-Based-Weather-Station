@@ -1,0 +1,12 @@
+{
+    "sqlite": {
+        "total_time_sec": 0.34897780418395996,
+        "average_time_per_batch_sec": 0.0006462551929332592,
+        "batches": 540
+    },
+    "influxdb": {
+        "total_time_sec": 8.387163877487183,
+        "average_time_per_batch_sec": 0.015531784958309598,
+        "batches": 540
+    }
+}
